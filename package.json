@@ -1,0 +1,16 @@
+{
+	"name": "node_express",
+	"version": "1.0.0",
+	"description": "",
+	"main": "altenative-flavor.js",
+	"scripts": {
+		"start": "nodemon app.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {},
+	"devDependencies": {
+		"nodemon": "^2.0.16"
+	}
+}
